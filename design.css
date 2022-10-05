@@ -1,0 +1,164 @@
+.container {
+    position: relative;
+    width: 1436px;
+    height: 1046px;
+    background: #FFFFFF;
+  }
+
+.main{
+    display: flex;
+    flex-direction: row;
+}
+
+.footer, .add-inf{
+    display: flex;
+    flex-direction: row;
+}
+
+
+.head{
+    /* margin-top: 93px;
+    margin-left: 124px; */
+    position: absolute;
+    width: 365px;
+    height: 93px;
+    left: 124px;
+    top: 91px;
+    
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 55px;
+    line-height: 101.38%;
+}
+
+.text{
+    position: absolute;
+    width: 662px;
+    height: 395px;
+    left: 124px;
+    top: 202px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 150%;
+}
+
+.pic1_2{
+    position: absolute;
+    width: 366px;
+    height: 59px;
+    left: 948px;
+    top: 511px;
+}
+
+.pic1{
+    position: absolute;
+    width: 314px;
+    height: 315px;
+    left: 973px;
+    top: 226px;
+    z-index: 100;
+}
+
+.pic2_2{
+    position: absolute;
+    width: 189px;
+    height: 32px;
+    left: 157px;
+    top: 857px;
+}
+
+.pic2_1{
+    position: absolute;
+    width: 232px;
+    height: 203px;
+    left: 124px;
+    top: 670px;
+    z-index: 100;
+}
+
+.inf1_1{
+    position: absolute;
+    width: 150px;
+    height: 39px;
+    left: 487px;
+    top: 740px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 130%;
+}
+
+.inf1_2{
+    position: absolute;
+    width: 150px;
+    height: 39px;
+    left: 487px;
+    top: 780px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 130%;
+}
+
+.inf2_1{
+    position: absolute;
+    width: 150px;
+    height: 39px;
+    left: 731px;
+    top: 740px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 130%;
+}
+
+.inf2_2{
+    position: absolute;
+    width: 150px;
+    height: 39px;
+    left: 731px;
+    top: 780px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 130%;
+}
+
+.inf3_1{
+    position: absolute;
+    width: 150px;
+    height: 39px;
+    left: 973px;
+    top: 740px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 130%;
+}
+.inf3_2{
+    position: absolute;
+    width: 150px;
+    height: 39px;
+    left: 973px;
+    top: 780px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 130%;   
+}
